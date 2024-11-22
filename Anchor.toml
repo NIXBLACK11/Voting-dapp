@@ -11,7 +11,7 @@ voting_dapp = "2tC447jX35oLcTLG4nYqQwYxPpBgMpg7FboSdmAfD183"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
